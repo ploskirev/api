@@ -8,7 +8,7 @@
   },
   {
     "optionName": "toppings",
-    "name": "Mayonaise",
+    "name": "mayonaise",
     "price": 20,
     "energy": 5,
     "img": "https://plsk.site/hidden/dev/tmp/burgers_img/mayonaise.png"
