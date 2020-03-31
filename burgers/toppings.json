@@ -1,5 +1,8 @@
 [
   {
+    "optionName": "toppings"
+  },
+  {
     "name": "flavoring",
     "price": 15,
     "energy": 0,

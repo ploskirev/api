@@ -1,5 +1,8 @@
 [
   {
+    "optionName": "sizes"
+  },
+  {
     "name": "small",
     "price": 50,
     "energy": 20,
