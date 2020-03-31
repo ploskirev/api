@@ -1,14 +1,13 @@
 [
   {
-    "optionName": "toppings"
-  },
-  {
+    "optionName": "toppings",
     "name": "flavoring",
     "price": 15,
     "energy": 0,
     "img": "https://plsk.site/hidden/dev/tmp/burgers_img/flavouring.png"
   },
   {
+    "optionName": "toppings",
     "name": "Mayonaise",
     "price": 20,
     "energy": 5,
