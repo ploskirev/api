@@ -1,0 +1,14 @@
+[
+  {
+    "name": "flavoring",
+    "price": 15,
+    "energy": 0,
+    "img": "https://plsk.site/hidden/dev/tmp/burgers_img/flavouring.png"
+  },
+  {
+    "name": "Mayonaise",
+    "price": 20,
+    "energy": 5,
+    "img": "https://plsk.site/hidden/dev/tmp/burgers_img/mayonaise.png"
+  }
+]

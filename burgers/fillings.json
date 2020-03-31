@@ -1,0 +1,20 @@
+[
+  {
+    "name": "cheese",
+    "price": 10,
+    "energy": 20,
+    "img": "https://plsk.site/hidden/dev/tmp/burgers_img/cheese.png"
+  },
+  {
+    "name": "salad",
+    "price": 20,
+    "energy": 5,
+    "img": "https://plsk.site/hidden/dev/tmp/burgers_img/salad.png"
+  },
+  {
+    "name": "potatoes",
+    "price": 15,
+    "energy": 10,
+    "img": "https://plsk.site/hidden/dev/tmp/burgers_img/potato.png"
+  }
+]

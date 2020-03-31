@@ -1,0 +1,14 @@
+[
+  {
+    "name": "small",
+    "price": 50,
+    "energy": 20,
+    "img": "https://plsk.site/hidden/dev/tmp/burgers_img/small.png"
+  },
+  {
+    "name": "big",
+    "price": 100,
+    "energy": 40,
+    "img": "https://plsk.site/hidden/dev/tmp/burgers_img/big.png"
+  }
+]
